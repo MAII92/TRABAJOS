@@ -1,0 +1,15 @@
+D:\Users\maguilarm\source\repos\ConsoleApp6\obj\Debug\net6.0\ConsoleApp6.csproj.AssemblyReference.cache
+D:\Users\maguilarm\source\repos\ConsoleApp6\obj\Debug\net6.0\ConsoleApp6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\maguilarm\source\repos\ConsoleApp6\obj\Debug\net6.0\ConsoleApp6.AssemblyInfoInputs.cache
+D:\Users\maguilarm\source\repos\ConsoleApp6\obj\Debug\net6.0\ConsoleApp6.AssemblyInfo.cs
+D:\Users\maguilarm\source\repos\ConsoleApp6\obj\Debug\net6.0\ConsoleApp6.csproj.CoreCompileInputs.cache
+D:\Users\maguilarm\source\repos\ConsoleApp6\bin\Debug\net6.0\ConsoleApp6.exe
+D:\Users\maguilarm\source\repos\ConsoleApp6\bin\Debug\net6.0\ConsoleApp6.deps.json
+D:\Users\maguilarm\source\repos\ConsoleApp6\bin\Debug\net6.0\ConsoleApp6.runtimeconfig.json
+D:\Users\maguilarm\source\repos\ConsoleApp6\bin\Debug\net6.0\ConsoleApp6.dll
+D:\Users\maguilarm\source\repos\ConsoleApp6\bin\Debug\net6.0\ConsoleApp6.pdb
+D:\Users\maguilarm\source\repos\ConsoleApp6\obj\Debug\net6.0\ConsoleApp6.dll
+D:\Users\maguilarm\source\repos\ConsoleApp6\obj\Debug\net6.0\refint\ConsoleApp6.dll
+D:\Users\maguilarm\source\repos\ConsoleApp6\obj\Debug\net6.0\ConsoleApp6.pdb
+D:\Users\maguilarm\source\repos\ConsoleApp6\obj\Debug\net6.0\ConsoleApp6.genruntimeconfig.cache
+D:\Users\maguilarm\source\repos\ConsoleApp6\obj\Debug\net6.0\ref\ConsoleApp6.dll

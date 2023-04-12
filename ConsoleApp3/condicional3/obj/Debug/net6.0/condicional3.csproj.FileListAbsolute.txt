@@ -1,0 +1,15 @@
+D:\Users\maguilarm\source\repos\condicional3\obj\Debug\net6.0\condicional3.csproj.AssemblyReference.cache
+D:\Users\maguilarm\source\repos\condicional3\obj\Debug\net6.0\condicional3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\maguilarm\source\repos\condicional3\obj\Debug\net6.0\condicional3.AssemblyInfoInputs.cache
+D:\Users\maguilarm\source\repos\condicional3\obj\Debug\net6.0\condicional3.AssemblyInfo.cs
+D:\Users\maguilarm\source\repos\condicional3\obj\Debug\net6.0\condicional3.csproj.CoreCompileInputs.cache
+D:\Users\maguilarm\source\repos\condicional3\bin\Debug\net6.0\condicional3.exe
+D:\Users\maguilarm\source\repos\condicional3\bin\Debug\net6.0\condicional3.deps.json
+D:\Users\maguilarm\source\repos\condicional3\bin\Debug\net6.0\condicional3.runtimeconfig.json
+D:\Users\maguilarm\source\repos\condicional3\bin\Debug\net6.0\condicional3.dll
+D:\Users\maguilarm\source\repos\condicional3\bin\Debug\net6.0\condicional3.pdb
+D:\Users\maguilarm\source\repos\condicional3\obj\Debug\net6.0\condicional3.dll
+D:\Users\maguilarm\source\repos\condicional3\obj\Debug\net6.0\refint\condicional3.dll
+D:\Users\maguilarm\source\repos\condicional3\obj\Debug\net6.0\condicional3.pdb
+D:\Users\maguilarm\source\repos\condicional3\obj\Debug\net6.0\condicional3.genruntimeconfig.cache
+D:\Users\maguilarm\source\repos\condicional3\obj\Debug\net6.0\ref\condicional3.dll

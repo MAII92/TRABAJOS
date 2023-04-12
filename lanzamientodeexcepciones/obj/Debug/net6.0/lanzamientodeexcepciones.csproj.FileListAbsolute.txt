@@ -1,0 +1,5 @@
+D:\Users\maguilarm\source\repos\lanzamientodeexcepciones\obj\Debug\net6.0\lanzamientodeexcepciones.csproj.AssemblyReference.cache
+D:\Users\maguilarm\source\repos\lanzamientodeexcepciones\obj\Debug\net6.0\lanzamientodeexcepciones.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\maguilarm\source\repos\lanzamientodeexcepciones\obj\Debug\net6.0\lanzamientodeexcepciones.AssemblyInfoInputs.cache
+D:\Users\maguilarm\source\repos\lanzamientodeexcepciones\obj\Debug\net6.0\lanzamientodeexcepciones.AssemblyInfo.cs
+D:\Users\maguilarm\source\repos\lanzamientodeexcepciones\obj\Debug\net6.0\lanzamientodeexcepciones.csproj.CoreCompileInputs.cache

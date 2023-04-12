@@ -1,0 +1,15 @@
+D:\Users\maguilarm\source\repos\proyecto7\obj\Debug\net6.0\proyecto7.csproj.AssemblyReference.cache
+D:\Users\maguilarm\source\repos\proyecto7\obj\Debug\net6.0\proyecto7.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\maguilarm\source\repos\proyecto7\obj\Debug\net6.0\proyecto7.AssemblyInfoInputs.cache
+D:\Users\maguilarm\source\repos\proyecto7\obj\Debug\net6.0\proyecto7.AssemblyInfo.cs
+D:\Users\maguilarm\source\repos\proyecto7\obj\Debug\net6.0\proyecto7.csproj.CoreCompileInputs.cache
+D:\Users\maguilarm\source\repos\proyecto7\bin\Debug\net6.0\proyecto7.exe
+D:\Users\maguilarm\source\repos\proyecto7\bin\Debug\net6.0\proyecto7.deps.json
+D:\Users\maguilarm\source\repos\proyecto7\bin\Debug\net6.0\proyecto7.runtimeconfig.json
+D:\Users\maguilarm\source\repos\proyecto7\bin\Debug\net6.0\proyecto7.dll
+D:\Users\maguilarm\source\repos\proyecto7\bin\Debug\net6.0\proyecto7.pdb
+D:\Users\maguilarm\source\repos\proyecto7\obj\Debug\net6.0\proyecto7.dll
+D:\Users\maguilarm\source\repos\proyecto7\obj\Debug\net6.0\refint\proyecto7.dll
+D:\Users\maguilarm\source\repos\proyecto7\obj\Debug\net6.0\proyecto7.pdb
+D:\Users\maguilarm\source\repos\proyecto7\obj\Debug\net6.0\proyecto7.genruntimeconfig.cache
+D:\Users\maguilarm\source\repos\proyecto7\obj\Debug\net6.0\ref\proyecto7.dll

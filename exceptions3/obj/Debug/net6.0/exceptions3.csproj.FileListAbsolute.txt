@@ -1,0 +1,15 @@
+D:\Users\maguilarm\source\repos\exceptions3\bin\Debug\net6.0\exceptions3.exe
+D:\Users\maguilarm\source\repos\exceptions3\bin\Debug\net6.0\exceptions3.deps.json
+D:\Users\maguilarm\source\repos\exceptions3\bin\Debug\net6.0\exceptions3.runtimeconfig.json
+D:\Users\maguilarm\source\repos\exceptions3\bin\Debug\net6.0\exceptions3.dll
+D:\Users\maguilarm\source\repos\exceptions3\bin\Debug\net6.0\exceptions3.pdb
+D:\Users\maguilarm\source\repos\exceptions3\obj\Debug\net6.0\exceptions3.csproj.AssemblyReference.cache
+D:\Users\maguilarm\source\repos\exceptions3\obj\Debug\net6.0\exceptions3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\maguilarm\source\repos\exceptions3\obj\Debug\net6.0\exceptions3.AssemblyInfoInputs.cache
+D:\Users\maguilarm\source\repos\exceptions3\obj\Debug\net6.0\exceptions3.AssemblyInfo.cs
+D:\Users\maguilarm\source\repos\exceptions3\obj\Debug\net6.0\exceptions3.csproj.CoreCompileInputs.cache
+D:\Users\maguilarm\source\repos\exceptions3\obj\Debug\net6.0\exceptions3.dll
+D:\Users\maguilarm\source\repos\exceptions3\obj\Debug\net6.0\refint\exceptions3.dll
+D:\Users\maguilarm\source\repos\exceptions3\obj\Debug\net6.0\exceptions3.pdb
+D:\Users\maguilarm\source\repos\exceptions3\obj\Debug\net6.0\exceptions3.genruntimeconfig.cache
+D:\Users\maguilarm\source\repos\exceptions3\obj\Debug\net6.0\ref\exceptions3.dll

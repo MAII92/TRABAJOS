@@ -1,0 +1,15 @@
+D:\Users\maguilarm\source\repos\condicionif4\obj\Debug\net6.0\condicionif4.csproj.AssemblyReference.cache
+D:\Users\maguilarm\source\repos\condicionif4\obj\Debug\net6.0\condicionif4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\maguilarm\source\repos\condicionif4\obj\Debug\net6.0\condicionif4.AssemblyInfoInputs.cache
+D:\Users\maguilarm\source\repos\condicionif4\obj\Debug\net6.0\condicionif4.AssemblyInfo.cs
+D:\Users\maguilarm\source\repos\condicionif4\obj\Debug\net6.0\condicionif4.csproj.CoreCompileInputs.cache
+D:\Users\maguilarm\source\repos\condicionif4\bin\Debug\net6.0\condicionif4.exe
+D:\Users\maguilarm\source\repos\condicionif4\bin\Debug\net6.0\condicionif4.deps.json
+D:\Users\maguilarm\source\repos\condicionif4\bin\Debug\net6.0\condicionif4.runtimeconfig.json
+D:\Users\maguilarm\source\repos\condicionif4\bin\Debug\net6.0\condicionif4.dll
+D:\Users\maguilarm\source\repos\condicionif4\bin\Debug\net6.0\condicionif4.pdb
+D:\Users\maguilarm\source\repos\condicionif4\obj\Debug\net6.0\condicionif4.dll
+D:\Users\maguilarm\source\repos\condicionif4\obj\Debug\net6.0\refint\condicionif4.dll
+D:\Users\maguilarm\source\repos\condicionif4\obj\Debug\net6.0\condicionif4.pdb
+D:\Users\maguilarm\source\repos\condicionif4\obj\Debug\net6.0\condicionif4.genruntimeconfig.cache
+D:\Users\maguilarm\source\repos\condicionif4\obj\Debug\net6.0\ref\condicionif4.dll

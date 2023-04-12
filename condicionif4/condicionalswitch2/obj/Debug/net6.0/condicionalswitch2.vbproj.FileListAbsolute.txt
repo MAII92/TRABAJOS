@@ -1,0 +1,5 @@
+D:\Users\maguilarm\source\repos\condicionalswitch2\obj\Debug\net6.0\condicionalswitch2.vbproj.AssemblyReference.cache
+D:\Users\maguilarm\source\repos\condicionalswitch2\obj\Debug\net6.0\condicionalswitch2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\maguilarm\source\repos\condicionalswitch2\obj\Debug\net6.0\condicionalswitch2.AssemblyInfoInputs.cache
+D:\Users\maguilarm\source\repos\condicionalswitch2\obj\Debug\net6.0\condicionalswitch2.AssemblyInfo.vb
+D:\Users\maguilarm\source\repos\condicionalswitch2\obj\Debug\net6.0\condicionalswitch2.vbproj.CoreCompileInputs.cache

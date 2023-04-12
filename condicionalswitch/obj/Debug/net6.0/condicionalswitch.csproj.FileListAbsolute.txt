@@ -1,0 +1,15 @@
+D:\Users\maguilarm\source\repos\condicionalswitch\obj\Debug\net6.0\condicionalswitch.csproj.AssemblyReference.cache
+D:\Users\maguilarm\source\repos\condicionalswitch\obj\Debug\net6.0\condicionalswitch.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\maguilarm\source\repos\condicionalswitch\obj\Debug\net6.0\condicionalswitch.AssemblyInfoInputs.cache
+D:\Users\maguilarm\source\repos\condicionalswitch\obj\Debug\net6.0\condicionalswitch.AssemblyInfo.cs
+D:\Users\maguilarm\source\repos\condicionalswitch\obj\Debug\net6.0\condicionalswitch.csproj.CoreCompileInputs.cache
+D:\Users\maguilarm\source\repos\condicionalswitch\bin\Debug\net6.0\condicionalswitch.exe
+D:\Users\maguilarm\source\repos\condicionalswitch\bin\Debug\net6.0\condicionalswitch.deps.json
+D:\Users\maguilarm\source\repos\condicionalswitch\bin\Debug\net6.0\condicionalswitch.runtimeconfig.json
+D:\Users\maguilarm\source\repos\condicionalswitch\bin\Debug\net6.0\condicionalswitch.dll
+D:\Users\maguilarm\source\repos\condicionalswitch\bin\Debug\net6.0\condicionalswitch.pdb
+D:\Users\maguilarm\source\repos\condicionalswitch\obj\Debug\net6.0\condicionalswitch.dll
+D:\Users\maguilarm\source\repos\condicionalswitch\obj\Debug\net6.0\refint\condicionalswitch.dll
+D:\Users\maguilarm\source\repos\condicionalswitch\obj\Debug\net6.0\condicionalswitch.pdb
+D:\Users\maguilarm\source\repos\condicionalswitch\obj\Debug\net6.0\condicionalswitch.genruntimeconfig.cache
+D:\Users\maguilarm\source\repos\condicionalswitch\obj\Debug\net6.0\ref\condicionalswitch.dll

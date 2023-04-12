@@ -1,0 +1,15 @@
+D:\Users\maguilarm\source\repos\bucle.do.while\obj\Debug\net6.0\bucle.do.while.csproj.AssemblyReference.cache
+D:\Users\maguilarm\source\repos\bucle.do.while\obj\Debug\net6.0\bucle.do.while.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\maguilarm\source\repos\bucle.do.while\obj\Debug\net6.0\bucle.do.while.AssemblyInfoInputs.cache
+D:\Users\maguilarm\source\repos\bucle.do.while\obj\Debug\net6.0\bucle.do.while.AssemblyInfo.cs
+D:\Users\maguilarm\source\repos\bucle.do.while\obj\Debug\net6.0\bucle.do.while.csproj.CoreCompileInputs.cache
+D:\Users\maguilarm\source\repos\bucle.do.while\bin\Debug\net6.0\bucle.do.while.exe
+D:\Users\maguilarm\source\repos\bucle.do.while\bin\Debug\net6.0\bucle.do.while.deps.json
+D:\Users\maguilarm\source\repos\bucle.do.while\bin\Debug\net6.0\bucle.do.while.runtimeconfig.json
+D:\Users\maguilarm\source\repos\bucle.do.while\bin\Debug\net6.0\bucle.do.while.dll
+D:\Users\maguilarm\source\repos\bucle.do.while\bin\Debug\net6.0\bucle.do.while.pdb
+D:\Users\maguilarm\source\repos\bucle.do.while\obj\Debug\net6.0\bucle.do.while.dll
+D:\Users\maguilarm\source\repos\bucle.do.while\obj\Debug\net6.0\refint\bucle.do.while.dll
+D:\Users\maguilarm\source\repos\bucle.do.while\obj\Debug\net6.0\bucle.do.while.pdb
+D:\Users\maguilarm\source\repos\bucle.do.while\obj\Debug\net6.0\bucle.do.while.genruntimeconfig.cache
+D:\Users\maguilarm\source\repos\bucle.do.while\obj\Debug\net6.0\ref\bucle.do.while.dll

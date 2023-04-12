@@ -1,0 +1,15 @@
+D:\Users\maguilarm\source\repos\condition9\obj\Debug\net6.0\condition9.csproj.AssemblyReference.cache
+D:\Users\maguilarm\source\repos\condition9\obj\Debug\net6.0\condition9.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\maguilarm\source\repos\condition9\obj\Debug\net6.0\condition9.AssemblyInfoInputs.cache
+D:\Users\maguilarm\source\repos\condition9\obj\Debug\net6.0\condition9.AssemblyInfo.cs
+D:\Users\maguilarm\source\repos\condition9\obj\Debug\net6.0\condition9.csproj.CoreCompileInputs.cache
+D:\Users\maguilarm\source\repos\condition9\bin\Debug\net6.0\condition9.exe
+D:\Users\maguilarm\source\repos\condition9\bin\Debug\net6.0\condition9.deps.json
+D:\Users\maguilarm\source\repos\condition9\bin\Debug\net6.0\condition9.runtimeconfig.json
+D:\Users\maguilarm\source\repos\condition9\bin\Debug\net6.0\condition9.dll
+D:\Users\maguilarm\source\repos\condition9\bin\Debug\net6.0\condition9.pdb
+D:\Users\maguilarm\source\repos\condition9\obj\Debug\net6.0\condition9.dll
+D:\Users\maguilarm\source\repos\condition9\obj\Debug\net6.0\refint\condition9.dll
+D:\Users\maguilarm\source\repos\condition9\obj\Debug\net6.0\condition9.pdb
+D:\Users\maguilarm\source\repos\condition9\obj\Debug\net6.0\condition9.genruntimeconfig.cache
+D:\Users\maguilarm\source\repos\condition9\obj\Debug\net6.0\ref\condition9.dll

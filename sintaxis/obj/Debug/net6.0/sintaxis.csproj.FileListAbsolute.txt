@@ -1,0 +1,15 @@
+D:\Users\maguilarm\source\repos\sintaxis\obj\Debug\net6.0\sintaxis.csproj.AssemblyReference.cache
+D:\Users\maguilarm\source\repos\sintaxis\obj\Debug\net6.0\sintaxis.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\maguilarm\source\repos\sintaxis\obj\Debug\net6.0\sintaxis.AssemblyInfoInputs.cache
+D:\Users\maguilarm\source\repos\sintaxis\obj\Debug\net6.0\sintaxis.AssemblyInfo.cs
+D:\Users\maguilarm\source\repos\sintaxis\obj\Debug\net6.0\sintaxis.csproj.CoreCompileInputs.cache
+D:\Users\maguilarm\source\repos\sintaxis\bin\Debug\net6.0\sintaxis.exe
+D:\Users\maguilarm\source\repos\sintaxis\bin\Debug\net6.0\sintaxis.deps.json
+D:\Users\maguilarm\source\repos\sintaxis\bin\Debug\net6.0\sintaxis.runtimeconfig.json
+D:\Users\maguilarm\source\repos\sintaxis\bin\Debug\net6.0\sintaxis.dll
+D:\Users\maguilarm\source\repos\sintaxis\bin\Debug\net6.0\sintaxis.pdb
+D:\Users\maguilarm\source\repos\sintaxis\obj\Debug\net6.0\sintaxis.dll
+D:\Users\maguilarm\source\repos\sintaxis\obj\Debug\net6.0\refint\sintaxis.dll
+D:\Users\maguilarm\source\repos\sintaxis\obj\Debug\net6.0\sintaxis.pdb
+D:\Users\maguilarm\source\repos\sintaxis\obj\Debug\net6.0\sintaxis.genruntimeconfig.cache
+D:\Users\maguilarm\source\repos\sintaxis\obj\Debug\net6.0\ref\sintaxis.dll
